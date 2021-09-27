@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-27T06:25:30.790Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="cEWJaYy9S2Tu73LFJ6Rk" version="15.3.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-27T06:32:10.241Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="amz4l4DuIDMF_1wqhhpr" version="15.3.4" type="github">
   <diagram name="Page-1" id="64c3da0e-402f-94eb-ee01-a36477274f13">
-    <mxGraphModel dx="2769" dy="1735" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2529" dy="1599" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -154,23 +154,8 @@
         <mxCell id="_okTCba526bZoAkwn3fd-265" value="&lt;ul style=&quot;font-size: 18px&quot;&gt;&lt;li style=&quot;font-size: 18px&quot;&gt;Tracking my order&lt;/li&gt;&lt;li style=&quot;font-size: 18px&quot;&gt;Update status order&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="1920" y="260" width="300" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="bLyojbW45M4yBMKop31f-234" value="" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
+        <mxCell id="bLyojbW45M4yBMKop31f-234" value="" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" parent="1" vertex="1">
           <mxGeometry x="870" y="270" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="bLyojbW45M4yBMKop31f-237" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="bLyojbW45M4yBMKop31f-235" target="bLyojbW45M4yBMKop31f-236">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="bLyojbW45M4yBMKop31f-235" value="" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
-          <mxGeometry x="400" y="-430" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="bLyojbW45M4yBMKop31f-239" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="bLyojbW45M4yBMKop31f-236" target="bLyojbW45M4yBMKop31f-238">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="bLyojbW45M4yBMKop31f-236" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=1;hachureGap=4;rotation=-225;" vertex="1" parent="1">
-          <mxGeometry x="450" y="-200" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="bLyojbW45M4yBMKop31f-238" value="" style="whiteSpace=wrap;html=1;rounded=1;hachureGap=4;" vertex="1" parent="1">
-          <mxGeometry x="80" y="-180" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
